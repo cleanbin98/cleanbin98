@@ -1,9 +1,10 @@
-# ☪ 백엔드 공부를 Critical Thinking하는 Hyunbin 입니다!
+# ☪ 백엔드 공부를 Critical Thinking합니다.
 </br>
 
-## 1. 제작 기간 & 참여 인원
-- 
-- 개인 프로젝트
+## 프로젝트 Logic
+개발언어에 상관없이 만드는 CRUD 게시판 : 
+스프링부트로 msa를 적용한 호텔 정보 조회 API 명세서 : 
+node.js로 만든 웹소켓을 사용한 실시간 채팅 구현하기 : 
 
 </br>
 
