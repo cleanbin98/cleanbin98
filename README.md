@@ -1,4 +1,4 @@
-# ☪ 백엔드 공부를 Critical Thinking합니다.
+# ☪ 개발 공부를 Critical Thinking합니다.
 </br>
 
 ## 프로젝트 Logic
